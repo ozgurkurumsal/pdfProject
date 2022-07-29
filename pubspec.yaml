@@ -40,6 +40,8 @@ dependencies:
   pdf: ^3.8.2
   path_provider: ^2.0.11
   syncfusion_flutter_pdfviewer: ^20.2.40-beta
+  share_plus: ^4.0.10
+
 
 dev_dependencies:
   flutter_test:
